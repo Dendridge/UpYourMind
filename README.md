@@ -1,2 +1,0 @@
-# UpYourMind
-Created with CodeSandbox
